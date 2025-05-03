@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+
+# Environments
+.env
+.env.*
+
+# VSCode
+.vscode/
+
+# Pytest / coverage
+htmlcov/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.pytest_cache/
+
+# mypy / pylint
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Docker
+*.pid
+*.seed
+*.tar
+docker-compose.override.yml
+
+# IDEs
+.idea/
+*.swp
+*.swo
+
+# MacOS/Linux/Windows system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
