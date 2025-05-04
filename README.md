@@ -16,7 +16,7 @@ Un socle robuste pour projets Django avec :
 ### 1. Cloner le projet et créer l'environnement
 
 ```bash
-git clone https://github.com/votre-utilisateur/djbase.git
+git clone https://github.com/mostafaBachir/django-base.git
 cd djbase
 python -m venv venv
 source venv/bin/activate
